@@ -1,0 +1,19 @@
+# Visual Studio Project & Solution Files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Visual Studio Build Outputs
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# Visual Studio Hidden Folders
+.vs/
